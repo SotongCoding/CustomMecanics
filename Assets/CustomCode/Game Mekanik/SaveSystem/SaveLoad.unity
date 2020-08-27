@@ -147,15 +147,333 @@ MonoBehaviour:
     floatVal: 1.1
   data2:
     data: 2
+  listData1:
+  - intVal: 101
+    stringVal: 101
+    floatVal: 1.01
+  - intVal: 102
+    stringVal: 102
+    floatVal: 1.02
+  - intVal: 103
+    stringVal: 103
+    floatVal: 1.03
+  listData2:
+  - data: 1
+  - data: 2
+  - data: 3
   loadData1:
     intVal: 100
     stringVal: 1200
     floatVal: 12130
   loadData2:
     data: 123123
+  loadListData1:
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  - intVal: 0
+    stringVal: 
+    floatVal: 0
+  loadListData2: []
   path: 
   saveData1: saveData1.dat
   saveData2: saveData2.dat
+  LsaveData1: listSaveData1.dat
+  LsaveData2: listSaveData2.dat
 --- !u!4 &258344292
 Transform:
   m_ObjectHideFlags: 0
